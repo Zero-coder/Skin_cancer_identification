@@ -1,0 +1,11 @@
+{
+        "0": "actinic_keratosis",
+        "1": "basal_cell_carcinoma",
+        "2": "dermatofibroma",
+        "3": "melanoma",
+        "4": "nevus",
+        "5": "pigmented_benign_keratosis",
+        "6": "seborrheic_keratosis",
+        "7": "squamous_cell_carcinoma",
+        "8": "vascular_lesion"
+}
